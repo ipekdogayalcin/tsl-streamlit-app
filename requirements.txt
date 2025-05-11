@@ -1,7 +1,7 @@
 streamlit
 opencv-python
 mediapipe
-tensorflow==2.15.1
+tensorflow
 transformers
 torch
 numpy
